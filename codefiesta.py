@@ -4,7 +4,7 @@ import tkinter
 from tkinter import simpledialog
 root = Tk()
 
-
+#this is a python software
 
 def rentorbuy():
     USER_INP = simpledialog.askstring(title="Test",
